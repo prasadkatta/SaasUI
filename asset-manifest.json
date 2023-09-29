@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SaasUI/static/css/main.073c9b0a.css",
+    "main.js": "/SaasUI/static/js/main.204215aa.js",
+    "static/js/787.9e1abc2a.chunk.js": "/SaasUI/static/js/787.9e1abc2a.chunk.js",
+    "index.html": "/SaasUI/index.html",
+    "main.073c9b0a.css.map": "/SaasUI/static/css/main.073c9b0a.css.map",
+    "main.204215aa.js.map": "/SaasUI/static/js/main.204215aa.js.map",
+    "787.9e1abc2a.chunk.js.map": "/SaasUI/static/js/787.9e1abc2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.204215aa.js"
+  ]
+}
