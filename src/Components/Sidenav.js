@@ -27,10 +27,12 @@ import {
     PersonaTertiaryLabel,
     Presence,
     DataTable,
-    ColumnDef
+    ColumnDef,
+    NProgress, 
+    NProgressNextRouter
 } from '@saas-ui/react'
 import { FiHome, FiUsers, FiSettings, FiHelpCircle } from 'react-icons/fi'
-
+import Bannner from './Bannner'
 import React from 'react'
 
 function Sidenav() {
@@ -117,6 +119,10 @@ function Sidenav() {
                     </PersonaDetails>
                 </Persona>
             </Box >
+            <Bannner />
+            <Box position="relative" overflow="hidden" height="10px">
+                <NProgress isAnimating position="absolute" />
+            </Box>
         </AppShell>
 
 
